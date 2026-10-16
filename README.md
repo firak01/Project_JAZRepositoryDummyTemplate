@@ -24,3 +24,8 @@ Dabei dann den gewünschten Java-Projektnamen vergeben, etc.
 WICHTIG:<br> 
 Es reicht nicht aus dieses Projekt selbst zu klonen und dann die Projektnamens - Umbenennungen durchzuführen.
 Man bekommt dann ja kein eigenständiges Repository und würde nur mit diesem Template Repository arbeiten.
+
+-------------------------------------------
+Anschliessend: 
+In Eclipse die notwendigen Eigenschaften hinzufügen.
+Bei JAZ-Projekten ist das die "Facet Form" Java.
