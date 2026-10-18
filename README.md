@@ -29,3 +29,17 @@ Man bekommt dann ja kein eigenständiges Repository und würde nur mit diesem Te
 Anschliessend: 
 In Eclipse die notwendigen Eigenschaften hinzufügen.
 Bei JAZ-Projekten ist das die "Facet Form" Java.
+
+-------------------------------------------
+Merke:<BR>
+Die Datei README.md wird hier als "Linked Resource" eingebunden über den Pfad "PROJECT_LOC\..\README.md".
+
+Dann kann man sie mit dem Plugin mylin.Wikitext bearbeiten<br>
+Doku zu dem Plugin:<br>
+https://help.eclipse.org/latest/index.jsp?topic=%2Forg.eclipse.mylyn.wikitext.help.ui%2Fhelp%2FGetting-Started.html<BR>
+
+Tip zu dem Plugin:<BR>
+Im Editor F1 drücken. Dann kommt eine Kurzreferenz mit den Markdown Struktur-Anweisungen
+
+
+
