@@ -32,7 +32,7 @@ Bei JAZ-Projekten ist das die "Facet Form" Java.
 
 -------------------------------------------
 Merke:<BR>
-Die Datei README.md wird hier als "Linked Resource" eingebunden über den Pfad "PROJECT_LOC\..\README.md".
+Die Datei README.md wird hier als "Linked Resource" eingebunden über den Pfad "PROJECT_LOC\\..\README.md".
 
 Dann kann man sie mit dem Plugin mylin.Wikitext bearbeiten<br>
 Doku zu dem Plugin:<br>
