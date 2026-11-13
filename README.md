@@ -25,6 +25,10 @@ WICHTIG:<br>
 Es reicht nicht aus dieses Projekt selbst zu klonen und dann die Projektnamens - Umbenennungen durchzuführen.
 Man bekommt dann ja kein eigenständiges Repository und würde nur mit diesem Template Repository arbeiten.
 
+WICHTIG2:
+Gespeicherte .launch Konfigurationsdateien bekommen von der Änderung des Projektnamens ggfs. nichts mit.
+Dieser muss durch "Suchen und Ersetzen" (Vielleicht pro Verzeichnis über das Tool_DevEditor... StringReplaceToolZZZ) gemacht werden.                         (Diese befinden sich vielleicht alle im launchZZZ - Ordner)
+
 -------------------------------------------
 Anschliessend: 
 In Eclipse die notwendigen Eigenschaften hinzufügen.
@@ -33,6 +37,9 @@ Bei JAZ-Projekten ist das die "Facet Form" Java.
 -------------------------------------------
 Merke:<BR>
 Die Datei README.md wird hier als "Linked Resource" eingebunden über den Pfad "PROJECT_LOC\\..\README.md".
+
+Die .launch Konfigurationsdateien kann man als "Shared" speichern.
+Dafür ist der launchZZZ - Ordner in jedem Projekt gedacht.
 
 Dann kann man sie mit dem Plugin mylin.Wikitext bearbeiten<br>
 Doku zu dem Plugin:<br>
